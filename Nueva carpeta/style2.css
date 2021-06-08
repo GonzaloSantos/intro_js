@@ -1,6 +1,6 @@
 :root {
     --primary-color: #ffffff;
-    --bg-color: #1a37d6bb;
+    --bg-color: #3148cc;
     --secondary-color: #000000;
 }
 
@@ -99,7 +99,7 @@ section {
 }
 
 input:checked + .slider {
-    background-color: #ff3366;
+    background-color: #3148cc;
 }
 
 input:checked + .slider:before {
